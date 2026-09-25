@@ -1,0 +1,57 @@
+HASIM END-USER LICENCE AGREEMENT (EULA)
+
+Version 2026-09 · Last updated: 2026-09-25
+
+This End-User Licence Agreement (“Agreement”) is a legal agreement between you (an individual or the organisation you represent, “you”) and Prof. Hani Muhsen (legal name: Hani Muhsen) (“Licensor”), the owner and developer of the Hasim software (“Software”). By installing, opening or using the Software you accept this Agreement. If you do not accept it, do not use the Software.
+
+1. Definitions
+
+“Software” means Hasim in all editions (desktop, portable, web and Microsoft Store), including updates, the equation library, drawing generators, documentation and example projects. “Licence Key” means the digitally signed key issued to you after purchase. “Store Licence” means Hasim bought in the Microsoft Store as a paid app (one-time purchase). “Seat” means one named individual user. “Outputs” means drawings, tables, reports and other results produced with the Software.
+
+2. Licence grant
+
+Subject to payment of the applicable fee and compliance with this Agreement, the Licensor grants you a non-exclusive, non-transferable, non-sublicensable licence to install and use the Software for the number of Seats, the licence type and the term stated in your Licence Key: Academic – teaching and non-commercial research at accredited educational institutions; Professional – commercial and non-commercial use for the subscription term; Professional Perpetual – commercial use without time limit of the versions released during the included update period; Team/Site – as agreed in writing. Each Seat may install the Software on up to three devices used by the same person. A Store Licence grants one Seat without time limit, for commercial and non-commercial use of the Microsoft Store edition, to the holder of the Microsoft account that bought it.
+
+3. Evaluation
+
+Without a Licence Key the Software may be used for 14 days for evaluation only. Evaluation and viewer Outputs are watermarked and must not be used commercially or passed off as licensed Outputs.
+
+4. Restrictions
+
+You must not: (a) copy the Software except for installation and backup; (b) sell, rent, lease, lend, sublicense, publish or distribute the Software or Licence Keys; (c) reverse engineer, decompile, disassemble or modify the Software, except to the extent permitted by mandatory law; (d) remove, alter or obscure copyright notices, owner identification, watermarks or licence checks, or circumvent any technical protection; (e) share a Licence Key among more users than Seats purchased; (f) use an Academic licence for commercial work; (g) use the Software to build a competing product.
+
+5. Ownership and copyright
+
+The Software is licensed, not sold. All rights, title and interest in the Software, including all copyright, remain with the Licensor. © 2026 Prof. Hani Muhsen. All rights reserved. Your projects and Outputs belong to you; licensed Outputs carry the licensee name in drawing title blocks, which you must not remove when you pass on drawings as Hasim Outputs.
+
+6. Updates and support
+
+Subscriptions include updates released during the paid term. Perpetual licences include the updates released during the first twelve months after purchase; every version released in that period may be used without time limit, and these versions remain available for download. The Microsoft Store edition is updated through the Microsoft Store; a Store Licence covers the current version of that edition. Support is provided by e-mail as described on the website.
+
+7. Engineering disclaimer
+
+The Software implements published engineering equations for concept- and pre-FEED-level studies. Outputs are estimates that depend on your inputs and simplifying assumptions (for example a synthetic weather year and indicative costs). They must be verified by qualified engineers and must not be used as the sole basis for design, safety, procurement, investment or permitting decisions. Applicable codes, standards and certified tools take precedence.
+
+8. Warranty
+
+The Licensor warrants that the Software will substantially perform as described in its documentation for thirty days after purchase; your remedy is correction of the defect or a refund. Otherwise, to the maximum extent permitted by law, the Software is provided “as is” without warranties of any kind, express or implied, including merchantability and fitness for a particular purpose.
+
+9. Limitation of liability
+
+To the maximum extent permitted by law, the Licensor is not liable for indirect, incidental, special or consequential damages, loss of profit, revenue, data or goodwill, and the Licensor’s total liability under this Agreement is limited to the fees you paid for the Software in the twelve months preceding the claim. These limits do not apply to liability that cannot be excluded by law.
+
+10. Term and termination
+
+This Agreement remains in force for the term of your licence. It terminates automatically if you breach it, if the licence fee is refunded or charged back, or when a subscription ends without renewal. On termination you must stop using the Software and delete all copies; Outputs created while licensed remain yours.
+
+11. Privacy
+
+The Software runs locally and does not transmit your projects or personal data. Licence Keys are verified offline; a Store Licence is recognised when the Software is started from the app installed from the Microsoft Store. See the Privacy Policy for data processed when you buy a licence.
+
+12. Export control
+
+You will comply with all applicable export-control and sanctions laws when using the Software.
+
+13. General
+
+This Agreement is governed by the laws of [Country]. If a provision is invalid, the remaining provisions stay in force. Purchases on this website are made through our reseller Paddle.com under the Terms & Conditions; purchases in the Microsoft Store edition are made from Microsoft under the terms of sale of the Microsoft Store. Contact: support@hasim-software.com.

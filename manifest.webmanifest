@@ -1,0 +1,38 @@
+{
+ "id": "./",
+ "name": "Hasim – Green Hydrogen Engineering",
+ "short_name": "Hasim",
+ "lang": "en",
+ "dir": "ltr",
+ "description": "Engineering workstation for green hydrogen plants – drawings, 8760-hour simulation, economics, design checks and codes screening. © 2026 Prof. Hani Muhsen.",
+ "start_url": "./index.html",
+ "scope": "./",
+ "display": "standalone",
+ "background_color": "#1c2733",
+ "theme_color": "#1c2733",
+ "categories": [
+  "productivity",
+  "education",
+  "utilities"
+ ],
+ "icons": [
+  {
+   "src": "icons/icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "icons/icon-256.png",
+   "sizes": "256x256",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "icons/icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any"
+  }
+ ]
+}

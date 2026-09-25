@@ -1,0 +1,11 @@
+Hasim – Green Hydrogen Engineering Suite, version 2.0.0
+Copyright (c) 2026 Prof. Hani Muhsen. All rights reserved.
+Owner and developer: Prof. Hani Muhsen.
+
+Hasim, its source code, equation library, drawing generators, user interface, documentation and
+examples are protected by copyright and international treaties. The software is licensed, not sold,
+under the Hasim End-User Licence Agreement (EULA.txt). Unauthorised copying, modification, reverse
+engineering or distribution, and the removal of copyright notices, watermarks or licence checks,
+are prohibited and may result in civil and criminal penalties.
+
+Licences: https://www.hasim-software.com/pricing.html · Support: support@hasim-software.com
