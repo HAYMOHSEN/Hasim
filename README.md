@@ -1,6 +1,6 @@
 # Hasim – Green Hydrogen Engineering
 
-This repository hosts the **free 14-day evaluation** of Hasim 2.0.0 at https://haymohsen.github.io/Hasim/ and the privacy policy of the
+This repository hosts the **free 14-day evaluation** of Hasim 2.1.0 at https://haymohsen.github.io/Hasim/ and the privacy policy of the
 Microsoft Store edition. The full version is sold in the Microsoft Store as a desktop app – one price, paid once;
 Buy in the evaluation leads there.
 
