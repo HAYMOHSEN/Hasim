@@ -1,6 +1,6 @@
 HASIM END-USER LICENCE AGREEMENT (EULA)
 
-Version 2026-09 · Last updated: 2026-09-25
+Version 2026-09 · Last updated: 2026-09-29
 
 This End-User Licence Agreement (“Agreement”) is a legal agreement between you (an individual or the organisation you represent, “you”) and Prof. Hani Muhsen (legal name: Hani Muhsen) (“Licensor”), the owner and developer of the Hasim software (“Software”). By installing, opening or using the Software you accept this Agreement. If you do not accept it, do not use the Software.
 
@@ -46,7 +46,7 @@ This Agreement remains in force for the term of your licence. It terminates auto
 
 11. Privacy
 
-The Software runs locally and does not transmit your projects or personal data. Licence Keys are verified offline; a Store Licence is recognised when the Software is started from the app installed from the Microsoft Store. See the Privacy Policy for data processed when you buy a licence.
+The Software runs locally and does not transmit your projects or personal data. Licence Keys are verified offline; a Store Licence is recognised when the Software is started from the app installed from the Microsoft Store. See the Privacy Policy.
 
 12. Export control
 
@@ -54,4 +54,4 @@ You will comply with all applicable export-control and sanctions laws when using
 
 13. General
 
-This Agreement is governed by the laws of [Country]. If a provision is invalid, the remaining provisions stay in force. Purchases on this website are made through our reseller Paddle.com under the Terms & Conditions; purchases in the Microsoft Store edition are made from Microsoft under the terms of sale of the Microsoft Store. Contact: support@hasim-software.com.
+This Agreement is governed by the laws of the Hashemite Kingdom of Jordan. If a provision is invalid, the remaining provisions stay in force. The Microsoft Store edition is purchased from Microsoft under the terms of sale of the Microsoft Store; licence keys for organisations are issued on request (sales@hasim-software.com). Contact: support@hasim-software.com.
