@@ -1,6 +1,6 @@
 // Hasim service worker – offline cache. © 2026 Prof. Hani Muhsen.
-const CACHE = 'hasim-v2.3.0-8b6f55697c';
-const FILES = ["./", "index.html", "manifest.webmanifest", "css/hasim.min.css", "js/hasim.min.js", "icons/icon-32.png", "icons/icon-192.png", "icons/icon-512.png"];
+const CACHE = 'hasim-v3.0.0-feb0e88ef7';
+const FILES = ["./", "index.html", "manifest.webmanifest", "css/hasim.min.css", "js/hasim.min.js", "js/hasim-engine.js", "icons/icon-32.png", "icons/icon-192.png", "icons/icon-512.png"];
 // precache bypasses the HTTP cache; only the application files and page navigations are cached
 self.addEventListener('install', e => e.waitUntil(caches.open(CACHE).then(c => c.addAll(FILES.map(f => new Request(f, { cache: 'reload' })))).then(() => self.skipWaiting())));
 // old versions are removed; open windows are told that a new version is active (not on the first installation)
